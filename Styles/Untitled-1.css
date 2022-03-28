@@ -1,0 +1,177 @@
+
+
+
+
+nav{
+    background-color: grey;
+    padding: 5px;
+    border:1ox solid green;
+    border-radius:  5px;
+}
+
+nav ul{
+text-align: center;
+font-size: 1.2en ;
+}
+
+nav ul li {
+
+    list-style-type: none;
+    background-color: lightgray;
+    display: inline;
+    padding: 15px;
+    border: 2px solid grey;
+    border-radius: 10px;
+}
+
+nav ul li a {
+
+    color: white;
+    text-decoration: none;
+}
+nav ul li:hover{ 
+
+    background-color:  #cb92f1  ;
+}
+
+header {
+background-image: url(../images/OTImage.jpeg);
+background-repeat: no-repeat;
+background-size: cover;
+height: 200px;
+color: navajowhite;
+border: 1px solid blue;
+
+}
+
+footer {
+    clear: both;
+    border: 1px solid orange;
+    padding:  0;
+    margin: 0;
+    position: relative;
+    bottom: 0px;
+    width: 100%;
+    background-color: grey;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: 20px;
+    margin: 20px;
+    padding: 2%;
+}
+th, td, tr {
+    border: 1px solid black;
+    text-align: left;
+}
+body {
+
+    background-color: black;
+    
+}
+#active {
+    background-color: rgb(158, 241, 158);
+}
+.productTeam {
+text-align: center;
+border: 5px solid black;
+margin: 10px;
+padding-right: 15px;
+padding-left: 15px;
+}
+h2
+{
+    background-color: black;
+    color:white;
+}
+h3
+{
+    color: white;
+}
+#content
+{
+    float: left;
+    width: 80%;
+    border: 1px solid grey;
+}
+.logo {
+
+    float: left; height: 60px; width: 60px;
+}
+
+#bigPic {
+    width: 100%;
+}
+.showimages {
+    float:left;
+    width: 30%;
+    border: 2px solid white;
+    margin: 0 10px 0 10px
+}
+section.manager {
+max-height:350px;
+overflow: auto;
+
+}
+p{
+    font: white;
+    text-align: justify;
+    padding: 2px;
+}
+.col_detail {
+ column-count: 3;
+ column-rule: 1px solid rgb(255, 1, 1);
+ column-gap: 50px;
+ padding: 2px;
+ text-align: justify;
+ font: black;
+}
+small{
+    color:white;
+}
+footer ul li {
+    list-style-type: none;
+    color: white;
+    display: inline;
+    padding: 15px;
+}
+aside{
+    border: 1px solid yellow;
+    float: right;
+    width: 18%;
+}
+#Maincontent {
+    float: left;
+    width: 80%;
+    border: 1px solid rgb(12, 207, 38);
+}
+aside ul li {
+    list-style-type: none;
+}
+aside ul li a {
+color: #008cff;
+
+}
+ol {
+    color: white;
+}
+.course{
+text-align: center;
+border: solid white;
+padding: 10px;
+}
+.videoContent {
+    float: right;
+    width: 49%;
+    border: 2px solid white;
+    max-height: 450px;
+    min-height: 450px;
+    overflow: auto;
+}
+#descText {
+    color: white;
+}
