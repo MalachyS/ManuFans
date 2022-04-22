@@ -1,7 +1,10 @@
 
 
 
-
+#eth
+{
+    background-image: url(../images/ETH.png);
+}
 nav{
     background-color: rgb(199, 64, 64);
     padding: 5px;
