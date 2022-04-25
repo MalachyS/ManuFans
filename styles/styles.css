@@ -189,12 +189,13 @@ padding: 10px;
 }
 .backgroundimage1{
     background-image: url(../Images/header.png);
-    
+    color rgb(199, 64, 64);
 }
 .backgroundimage2{
     background-image: url(../Images/Ronaldo.jpg);
+    color black;
 }
 .backgroundimage3{
     background-image: url(../Images/Bruno.jpg);
-    
+    color rgb(199, 64, 64);
 }
